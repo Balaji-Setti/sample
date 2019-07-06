@@ -1,6 +1,5 @@
 Hello World
 How r u
 I came here to rule the world
->>>>>>> c206f89ca73e5782f4c8ce9d512ff7d1232b483f
 I am working as a Devops Engineer
 I am getting 8.5 LPA
